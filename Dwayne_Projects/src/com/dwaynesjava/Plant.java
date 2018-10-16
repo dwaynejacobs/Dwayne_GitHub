@@ -6,6 +6,7 @@ public class Plant {
 	int age;
 
 	void speak() {
+		
 		System.out.println("My name is: " + name);
 
 	}

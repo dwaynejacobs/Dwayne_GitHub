@@ -9,6 +9,7 @@ public class App {
 		
 		Plant plant_local = new Plant();
 		
+		plant_local.name = "Dwayne";
 		plant_local.speak();
 		
 	}
